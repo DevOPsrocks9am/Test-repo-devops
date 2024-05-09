@@ -1,6 +1,5 @@
 This AWS-Devops
-EC-2
-VPC
-S3
-EBS
-
+EC-2 - to create a remote instance
+VPC - to create a vertual compute cloud
+S3 - simple storage service
+EBS- elastic block storage

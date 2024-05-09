@@ -1,5 +1,6 @@
 This AWS-Devops
-EC-2 - elastic computing cloud 
-VPC - virtual private cloud
-S3 - simple storage service 
-EBS - elastic block storage
+EC-2
+VPC
+S3
+EBS
+

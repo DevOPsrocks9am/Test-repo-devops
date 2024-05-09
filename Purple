@@ -7,14 +7,8 @@ git status
 git add .
 git commit -m ""
 git push
+Bangalore
+Hyderabad
+Chennai
+Mumbai
 
-
-
-
-az
-eks
-ec2
-ebs
-s3
-vpc
-ddd

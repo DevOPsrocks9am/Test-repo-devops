@@ -1,0 +1,6 @@
+explaing git workflow
+git init > to initialize the git application.
+git clone > you need to clone the your local git bash with your github organizational account.
+git add . >>>> to add the changes from your wroking are to stagging area or indext area.
+git commit -m "textdesc" >>> to commit and finalize the changes for your working file to directory.
+git push >>> to push the finalized code or file from your working directory to your git hub account.

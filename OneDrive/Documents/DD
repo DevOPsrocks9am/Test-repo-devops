@@ -1,0 +1,5 @@
+1) what is the difference between git fetch and git pull?
+
+git fetch downloads the latest changes (latest commits, branches, and tags) from the git repo without merging them to your local work.
+
+git pull is Download the latest changes and **merge them** with your local branch.

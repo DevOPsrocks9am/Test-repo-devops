@@ -1,0 +1,3 @@
+SCM-source code management
+VCS-version control system
+
